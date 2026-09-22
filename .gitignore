@@ -1,0 +1,21 @@
+# Segredos e Credenciais
+.streamlit/secrets.toml
+.env
+
+# Bancos de dados locais
+*.db
+*.sqlite
+*.sqlite3
+
+# Planilhas e dados locais
+entregas.xlsx
+*.csv
+*.xlsx
+historico_cotacoes.json
+historico.json
+
+# Arquivos do Python que não precisam ir para a nuvem
+__pycache__/
+*.pyc
+.venv/
+venv/
