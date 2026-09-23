@@ -2179,4 +2179,4 @@ elif aba == "Histórico de Cotações (Em Breve)":
             width="stretch",
             hide_index=True,
         )
-        
+    
